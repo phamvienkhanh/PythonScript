@@ -1,0 +1,28 @@
+{
+    "Skype.exe":{
+        "PID":7352,
+        "Path":"['C:\\\\Program Files (x86)\\\\Skype\\\\Phone\\\\Skype.exe']",
+        "username":"GAMELOFT\\khanh.phamvien"
+    },
+    "Taskmgr.exe":{},
+    "VSWinExpress.exe":{
+        "PID":7352,
+        "Path":"['C:\\\\Program Files (x86)\\\\Microsoft Visual Studio 14.0\\\\Common7\\\\IDE\\\\VSWinExpress.exe']",
+        "username":"GAMELOFT\\khanh.phamvien"
+    },
+    "explorer.exe":{
+        "PID":10644,
+        "Path":"['explorer.exe']",
+        "username":"GAMELOFT\\khanh.phamvien"
+    },
+    "sublime.exe":{
+        "PID":9560,
+        "Path":"['sublime']",
+        "username":"GAMELOFT\\khanh.phamvien"
+    },
+    "thunderbird.exe":{
+        "PID":7352,
+        "Path":"['C:\\\\Program Files (x86)\\\\Mozilla Thunderbird\\\\thunderbird.exe']",
+        "username":"GAMELOFT\\khanh.phamvien"
+    }
+}
