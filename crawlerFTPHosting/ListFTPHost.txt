@@ -1,0 +1,369 @@
+220 (vsFTPd 2.3.5)
+FTP @ found : 93.77.2.72
+=============================================
+220 (vsFTPd 3.0.3)
+FTP @ found : 80.79.31.87
+=============================================
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 1 of 50 allowed.
+220-Local time is now 16:25. Server port: 21.
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 15 minutes of inactivity.
+FTP @ found : 198.1.72.17
+=============================================
+220 StylusPro9880-42610D FTP server (OEM FTPD version 1.01) ready.
+FTP @ found : 140.133.67.10
+=============================================
+220 Microsoft FTP Service
+FTP @ found : 201.48.188.33
+=============================================
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 1 of 25 allowed.
+220-Local time is now 04:27. Server port: 21.
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 15 minutes of inactivity.
+FTP @ found : 54.254.235.122
+=============================================
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 5 of 150 allowed.
+220-Local time is now 15:27. Server port: 21.
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 15 minutes of inactivity.
+FTP @ found : 198.57.148.157
+=============================================
+220-Idea FTP Server 0.82 (geostudio.home.pl) [79.96.116.158]
+220 Ready
+FTP @ found : 79.96.116.158
+=============================================
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 1 of 50 allowed.
+220-Local time is now 13:31. Server port: 21.
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 15 minutes of inactivity.
+FTP @ found : 216.75.37.170
+=============================================
+220 218.149.166.237 FTP server (tnftpd 20100324+GSSAPI) ready.
+FTP @ found : 218.149.166.237
+=============================================
+220 Microsoft FTP Service
+FTP @ found : 166.88.9.20
+=============================================
+220 madicken Microsoft FTP Service (Version 5.0).
+FTP @ found : 62.181.192.167
+=============================================
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 1 of 50 allowed.
+220-Local time is now 22:35. Server port: 21.
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 10 minutes of inactivity.
+FTP @ found : 134.119.44.235
+=============================================
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 8 of 150 allowed.
+220-Local time is now 15:36. Server port: 21.
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 15 minutes of inactivity.
+FTP @ found : 216.172.187.94
+=============================================
+220 Serv-U FTP Server v15.1 ready...
+FTP @ found : 168.144.220.115
+=============================================
+220 (vsFTPd 2.0.1)
+FTP @ found : 212.45.5.245
+=============================================
+220 FTP Server
+FTP @ found : 94.152.157.39
+=============================================
+230 User logged in.
+FTP @ found : 74.120.207.252
+=============================================
+220 Serv-U FTP Server v15.1 ready...
+FTP @ found : 168.144.113.121
+=============================================
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 10 of 150 allowed.
+220-Local time is now 15:46. Server port: 21.
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 15 minutes of inactivity.
+FTP @ found : 192.185.224.251
+=============================================
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 1 of 50 allowed.
+220-Local time is now 16:48. Server port: 21.
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 15 minutes of inactivity.
+FTP @ found : 142.11.213.191
+=============================================
+220 (vsFTPd 2.3.5)
+FTP @ found : 139.162.3.226
+=============================================
+220-Welcome to Pure-FTPd.
+220-You are user number 1 of 50 allowed.
+220-Local time is now 23:59. Server port: 21.
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 15 minutes of inactivity.
+FTP @ found : 90.190.99.78
+=============================================
+220 (vsFTPd 2.2.2)
+FTP @ found : 203.128.24.52
+=============================================
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 7 of 150 allowed.
+220-Local time is now 15:55. Server port: 21.
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 15 minutes of inactivity.
+FTP @ found : 108.167.189.11
+=============================================
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 2 of 150 allowed.
+220-Local time is now 15:56. Server port: 21.
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 15 minutes of inactivity.
+FTP @ found : 198.57.148.111
+=============================================
+220 (vsFTPd 2.2.2)
+FTP @ found : 123.60.217.232
+=============================================
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 3 of 150 allowed.
+220-Local time is now 15:58. Server port: 21.
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 15 minutes of inactivity.
+FTP @ found : 192.185.165.72
+=============================================
+220 (vsFTPd 2.2.2)
+FTP @ found : 45.33.187.210
+=============================================
+220 Microsoft FTP Service
+FTP @ found : 71.47.62.179
+=============================================
+220 Check Point FireWall-1 Secure FTP server running on vnfw1_1
+FTP @ found : 161.149.120.155
+=============================================
+220 10.10.1.4 FTP server ready
+FTP @ found : 70.69.223.59
+=============================================
+220-Idea FTP Server 0.82 (biurohdl.home.pl) [79.96.121.44]
+220 Ready
+FTP @ found : 79.96.121.44
+=============================================
+220 scannerlexmark Lexmark MX310dn FTP Server NH.SB.N328 ready.
+FTP @ found : 148.216.33.192
+=============================================
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 1 of 50 allowed.
+220-Local time is now 22:05. Server port: 21.
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 15 minutes of inactivity.
+FTP @ found : 46.32.254.208
+=============================================
+220 Microsoft FTP Service
+FTP @ found : 23.231.154.245
+=============================================
+220-Microsoft FTP Service
+220 Welcome!
+FTP @ found : 172.80.108.162
+=============================================
+220 192.168.1.13 FTP server ready
+FTP @ found : 118.240.23.95
+=============================================
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 1 of 50 allowed.
+220-Local time is now 14:54. Server port: 21.
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 15 minutes of inactivity.
+FTP @ found : 94.23.40.141
+=============================================
+220 Microsoft FTP Service
+FTP @ found : 108.186.127.110
+=============================================
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 1 of 5000 allowed.
+220-Local time is now 10:07. Server port: 21.
+220 You will be disconnected after 15 minutes of inactivity.
+FTP @ found : 45.35.90.7
+=============================================
+220 Microsoft FTP Service
+FTP @ found : 67.198.247.140
+=============================================
+220-Idea FTP Server 0.82 (serwer1773529.home.pl) [46.242.200.113]
+220 Ready
+FTP @ found : 46.242.200.113
+=============================================
+220 (vsFTPd 2.0.5)
+FTP @ found : 200.29.13.114
+=============================================
+220 Service ready for new user.
+FTP @ found : 140.138.181.245
+=============================================
+220 Check Point FireWall-1 Secure FTP server running on vnfw1_1
+FTP @ found : 161.149.228.134
+=============================================
+220 (vsFTPd 3.0.2)
+FTP @ found : 178.250.44.68
+=============================================
+220 Microsoft FTP Service
+FTP @ found : 83.236.191.202
+=============================================
+220-Microsoft FTP Service
+220 IIS1031
+FTP @ found : 98.131.85.173
+=============================================
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 5 of 50 allowed.
+220-Local time is now 23:33. Server port: 21.
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 10 minutes of inactivity.
+FTP @ found : 134.119.122.60
+=============================================
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 1 of 150 allowed.
+220-Local time is now 16:34. Server port: 21.
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 15 minutes of inactivity.
+FTP @ found : 192.185.149.71
+=============================================
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 1 of 50 allowed.
+220-Local time is now 16:40. Server port: 21.
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 15 minutes of inactivity.
+FTP @ found : 162.144.249.62
+=============================================
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 1 of 50 allowed.
+220-Local time is now 17:40. Server port: 21.
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 15 minutes of inactivity.
+FTP @ found : 192.255.211.58
+=============================================
+220 (vsFTPd 2.3.5)
+FTP @ found : 198.58.120.247
+=============================================
+220-#########################################################
+220-Please upload your web files to the public_html directory.
+220-Note that letters are case sensitive.
+220-#########################################################
+220 This is a private system - No anonymous login
+FTP @ found : 109.199.99.43
+=============================================
+220 Serv-U FTP Server v15.1 ready...
+FTP @ found : 168.144.65.55
+=============================================
+220 Microsoft FTP Service
+FTP @ found : 23.27.32.154
+=============================================
+220-Microsoft FTP Service
+220 Welcome!
+FTP @ found : 108.186.3.198
+=============================================
+220 (vsFTPd 2.0.5)
+FTP @ found : 41.208.148.78
+=============================================
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 1 of 150 allowed.
+220-Local time is now 00:30. Server port: 21.
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 15 minutes of inactivity.
+FTP @ found : 192.185.26.9
+=============================================
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 1 of 50 allowed.
+220-Local time is now 07:32. Server port: 21.
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 10 minutes of inactivity.
+FTP @ found : 134.119.98.228
+=============================================
+220 192.168.27.240 FTP server ready
+FTP @ found : 188.152.247.149
+=============================================
+220 (vsFTPd 3.0.2)
+FTP @ found : 202.29.240.156
+=============================================
+220-Microsoft FTP Service
+220 Feba FTP
+FTP @ found : 95.142.188.78
+=============================================
+220 (vsFTPd 2.2.2)
+FTP @ found : 174.129.210.157
+=============================================
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 2 of 150 allowed.
+220-Local time is now 00:36. Server port: 21.
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 15 minutes of inactivity.
+FTP @ found : 192.185.198.221
+=============================================
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 1 of 50 allowed.
+220-Local time is now 21:39. Server port: 21.
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 15 minutes of inactivity.
+FTP @ found : 204.15.165.117
+=============================================
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 1 of 50 allowed.
+220-Local time is now 07:42. Server port: 21.
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 10 minutes of inactivity.
+FTP @ found : 37.200.100.203
+=============================================
+220-Idea FTP Server 0.82 (wirtual.home.pl) [212.85.97.45]
+220 Ready
+FTP @ found : 212.85.97.45
+=============================================
+220 Operation successful
+FTP @ found : 112.162.222.218
+=============================================
+220 bftpd 2.2.1 at 192.168.0.1 ready.
+FTP @ found : 75.188.2.38
+=============================================
+220 Microsoft FTP Service
+FTP @ found : 121.136.118.44
+=============================================
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 1 of 50 allowed.
+220-Local time is now 02:46. Server port: 21.
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 15 minutes of inactivity.
+FTP @ found : 186.226.60.183
+=============================================
+220 (vsFTPd 2.2.2)
+FTP @ found : 153.122.41.173
+=============================================
+220 Check Point FireWall-1 Secure FTP server running on vnfw1_1
+FTP @ found : 161.149.146.207
+=============================================
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 2 of 50 allowed.
+220-Local time is now 07:48. Server port: 21.
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 10 minutes of inactivity.
+FTP @ found : 134.119.91.241
+=============================================
+220 Microsoft FTP Service
+FTP @ found : 222.96.57.29
+=============================================
+220 (vsFTPd 2.2.2)
+FTP @ found : 219.94.232.46
+=============================================
+220 Microsoft FTP Service
+FTP @ found : 107.163.13.114
+=============================================
+220-Idea FTP Server 0.82 (agdpasterski.home.pl) [212.85.125.103]
+220 Ready
+FTP @ found : 212.85.125.103
+=============================================
+220-Idea FTP Server 0.82 (serwer1660975.home.pl) [188.128.226.61]
+220 Ready
+FTP @ found : 188.128.226.61
+=============================================
+220 (vsFTPd 2.2.2)
+FTP @ found : 123.60.217.254
+=============================================
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 1 of 150 allowed.
+220-Local time is now 21:59. Server port: 21.
+220 You will be disconnected after 5 minutes of inactivity.
+FTP @ found : 50.23.81.247
+=============================================
