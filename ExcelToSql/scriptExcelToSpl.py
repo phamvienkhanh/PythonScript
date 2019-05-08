@@ -4,9 +4,23 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship
 from sqlalchemy import create_engine
 
+Base = declarative_base()
+
 #=== Create sql engine ==================================================
-engine = create_engine('sqlite:///data.db', echo=False)
+engine = create_engine('sqlite:///data2.db', echo=False)
 #========================================================================
+
+
+#========================================================================
+class Categories(Base):
+    __tablename__ = 'Categories'
+
+    id              = Column(Integer, primary_key = True)
+    name            = Column(String)
+    description     = Column(String)
+    annotationType  = Column(String)
+#=========================================================================
+
 
 #=========================================================================
 xl = pd.ExcelFile("object_prop_matrix.xlsx")
